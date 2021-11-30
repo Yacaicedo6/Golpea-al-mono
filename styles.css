@@ -11,7 +11,7 @@
 	border: solid black 1px;
 }
 
-.mole {
-	background-image: url("mole.jpg");
+.mono {
+	background-image: url("Mono.png");
 	background-size: cover;
 }
